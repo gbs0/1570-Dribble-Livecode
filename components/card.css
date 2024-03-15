@@ -1,0 +1,29 @@
+.card {
+  width: 328px;
+}
+.card-figure {
+  background-image: url("../images/background.jpeg");
+  height: 256px;
+  background-size: cover;
+  object-fit: cover;
+  border-radius: 16px;
+}
+
+.card-figure-infos {
+  color: white;
+  height: 100%;
+}
+
+.icon-background {
+  background-color: white;
+  padding: 13px;
+  width: 23px;
+  border-radius: 8px;
+  height: 26px;
+  margin-left: 20px;
+}
+
+.icon-color {
+  color: gray;
+  font-size: 22px;
+}
